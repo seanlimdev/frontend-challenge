@@ -18,30 +18,32 @@ Our goal is to create a dashboard with a timeline of executed piplines and their
 - The list items should be presented with a few pieces of information about the pipeline.
   - project name
   - pipeline id & status
-  - number of jobs in the pipeline
-  - failed jobs
+  - duration of the pipeline
+  - date pipeline was execute
+  - any failed jobs
 
 ## Guidelines:
 - Frontend code should be in JavaScript ES6+ or TypeScript
 - You can use JS/CSS libraries for logic and layout/styling.
 - Include instructions on how to compile/run and/or view your site.
 - Document any caveats about the code
-- Only location with id "1" has mocked data.
 - Use the endpoints schemas defined below for API calls (ie. using the `/db` endpoint as a shortcut is ***NOT ALLOWED*** in your solution)
 
 ## Extra points:
+If you solved the problem and want to show off your skills, consider the folling:
+
 - Use a frontend framework (especially ones we use at Quadric: React)
 - Use LocalStorage or IndexedDB in to cache data as you see fit.
 - Use a build system to compile/transform code (webpack, grunt, gulp, etc.)
 - Responsive/mobile layout
 
 ## Submission:
-- Create your own Github/Bitbucket/Gitlab/etc. solution repo and send us the link
-- Archive your solution in a .zip and email it back to us
+Create your own Github/Bitbucket/Gitlab/etc. solution repo and send us the link (prefered)
+or archive your solution in a .zip and email it back to us (alternative)
 
 ### Inspiration
-If you are looking for inspiration, you can try and emulate the Github Actions dashboard,
-but replacing it with the API's from the mock server.
+If you are looking for inspiration for your page layout, you can try and emulate the
+Github Actions dashboard, but replacing it with the API's from the mock server.
 
 ![Screenshot](/screenshots/gh_actions.png?raw=true "Inspiration Screenshot")
 
