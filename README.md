@@ -23,19 +23,28 @@ Our goal is to create a dashboard with a timeline of executed piplines and their
   - any failed jobs
 
 ## Guidelines:
+- Estimated effort should be 2-4 hours (DO NOT spend more than 4 hours on assignment)
 - Frontend code should be in JavaScript ES6+ or TypeScript
 - You can use JS/CSS libraries for logic and layout/styling.
 - Include instructions on how to compile/run and/or view your site.
 - Document any caveats about the code
 - Use the endpoints schemas defined below for API calls (ie. using the `/db` endpoint as a shortcut is ***NOT ALLOWED*** in your solution)
+- Put in equal effort in the code and UI styling (ie. show off all your skill, not one more than the others)
 
 ## Extra points:
-If you solved the problem and want to show off your skills, consider the folling:
+If you solved the problem and want to show off your knowledge on specific topics, consider the following:
 
 - Use a frontend framework (especially ones we use at Quadric: React)
 - Use LocalStorage or IndexedDB in to cache data as you see fit.
 - Use a build system to compile/transform code (webpack, grunt, gulp, etc.)
 - Responsive/mobile layout
+- Write out a list of changes you would like to make but didn't have time for (code and/or styling)
+- Handle missing/invalid API data in UI (ie. missing project name, unknown pipeline status, etc)
+- Useful comments in code
+- Scalable project folder layout (ie. assume this was a large code project, organize the code/files for that)
+
+***Note: Focus on showing your coding & UI styling abilities before going for extra points.
+We will review on basic guidelines before considering extra points.***
 
 ## Submission:
 Create your own Github/Bitbucket/Gitlab/etc. solution repo and send us the link (prefered)
