@@ -55,8 +55,8 @@ If you solved the problem and want to show off your knowledge on specific topics
 We will review on basic guidelines before considering extra points.***
 
 # Submission
-Create your own Github/Bitbucket/Gitlab/etc. solution repo and send us the link (prefered)
-or archive your solution in a .zip and email it back to us (alternative)
+Create your own Github/Bitbucket/Gitlab/etc. solution repo and send us the link (preferred)
+or archive your solution in a .zip and email it back to us (alternative).
 
 Good Luck!
 Don't hesitate to contact us if you have any questions.
