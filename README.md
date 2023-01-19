@@ -43,10 +43,10 @@ If you solved the problem and want to show off your knowledge on specific topics
 
 - Use a frontend framework (especially ones we use at Quadric: React)
 - Use LocalStorage or IndexedDB in to cache data as you see fit.
-- Use a build system to compile/transform code (webpack, grunt, gulp, etc.)
+- Use a build system to compile/transform code and styles (webpack, css modules, etc.)
 - Responsive/mobile layout
 - Write out a list of changes you would like to make but didn't have time for (code and/or styling)
-- Handle missing/invalid API data in UI (ie. missing project name, unknown workflow status, etc)
+- Handle missing/invalid API data in UI (ie. unknown workflow status, null job duration, etc)
 - Useful comments in code
 - Scalable project folder layout (ie. assume this was a large code project, organize the code/files for that)
 - Add a details page/dialog with the job trace (use the `/traces` endpoint)
