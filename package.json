@@ -7,7 +7,9 @@
     "npm": ">=7"
   },
   "scripts": {
-    "mock-api": "node mock"
+    "mock-api": "node mock",
+    "client": "npm start --prefix frontend",
+    "develop": "concurrently \"npm run mock-api\" \"npm run client\""
   },
   "devDependencies": {
     "colors": "^1.4.0",
