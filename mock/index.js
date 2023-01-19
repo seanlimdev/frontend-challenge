@@ -24,7 +24,7 @@ if (!fs.existsSync(path.join(__dirname, 'db.json'))) {
 // print out some stats
 console.log('Total users:', `${db.users.length}`.green);
 console.log('Total projects:', `${db.projects.length}`.green);
-console.log('Total pipelines:', `${db.pipelines.length}`.green);
+console.log('Total workflows:', `${db.workflows.length}`.green);
 console.log('Total jobs:', `${db.jobs.length}`.green);
 
 // start the mock server
