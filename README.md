@@ -13,6 +13,7 @@ Solution
 - Run `npm start` and the frontend will be available at `http://localhost:3000/`
 
 ## Concurrently
+- You need to install dependencies in project folder and frontend folder by running `npm install`
 - Run `npm run develop`
 
 ## Frontend implementation checks
